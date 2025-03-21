@@ -47,5 +47,5 @@
 </p>
 
 <p align="center">
-     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+     <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Kananavy&section=footer&reversal=true&animation=fadeIn"/>
 </p>
