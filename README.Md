@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Random_projects](https://github.com/kananavy)
 
-- 🌱 I’m currently learning **Angular, Laravel and C# Net framework & AspetNet**
+- 🌱 I’m currently learning **Angular, Laravel and C#**
 
 - 👨‍💻 All of my projects are available at [My Projects](https://github.com/kananavy)
 
@@ -43,7 +43,7 @@
   </a>
 </p>
 <p align="center">
-  <img align="center" src="https://github-profile-trophy.vercel.app/?username=haritsimba&row=4&column=4&margin-w=15&margin-h=15&no-frame=true&theme=flat"  alt="haritsimba" />
+  <img align="center" src="https://github-profile-trophy.vercel.app/?username=kananavy&row=4&column=4&margin-w=15&margin-h=15&no-frame=true&theme=flat"  alt="haritsimba" />
 </p>
 
 <p align="center">
